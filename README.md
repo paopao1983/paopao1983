@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paopao1983
-- 👀 I’m interested in Test Automation with Selenium and Cypress
+- 👀 I’m interested in Test Automation with WebdriverIO, Cypress, Selenium...
 - 🌱 I’m currently learning Test Automation
 - 💞️ I’m looking to collaborate on everything I can
 - 📫 How to reach me https://www.linkedin.com/in/paopao1983/
